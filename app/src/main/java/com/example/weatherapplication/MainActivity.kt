@@ -27,7 +27,7 @@ import java.util.Date
 import java.util.Locale
 
 private lateinit var location : EditText
-val API: String = "7547ddf79c372b1f6e8ab1b4e349ab0a"
+val API: String = "********************"
 private lateinit var DEFAULT_CITY: String
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
